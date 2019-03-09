@@ -1,4 +1,4 @@
-[ Project-B Presentation Topic ]({% post_url 2019-02-15-projectB-week2 %})
+[ Project-B Presentation Topic ]({% post_url 2019-03-01-projectB-week2 %})
 
 For my 2nd project I choose Figma to design prototypes of e-commerce website in mobile version.I have particulary choosen Figma because i have trouble making mock ups for my recent projects.It was difficult to share my work easily withj the team members.so,Figma interested me.
 Problems:
