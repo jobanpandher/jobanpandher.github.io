@@ -1,4 +1,4 @@
-[ Project-B ]({% post_url 2019-03-15-projectB-week4 %})
+[ week-4 ]({% post_url 2019-03-15-projectB-week4 %})
 
 ## This week
 * I have done with add to cart page and create account and login , signup pages.
