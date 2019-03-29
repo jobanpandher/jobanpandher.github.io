@@ -56,7 +56,7 @@ You can also open it by logging in Figma in browser with Gmail account. Then go 
 
 8.[https://www.google.com/search?biw=1134&bih=688&tbm=isch&sa=1&ei=7NOFXNeNLYHY-wS_toyIDA&q=heels+for+women&oq=heels+for+women&gs_l=img.3..0l2j0i67j0l7.6543.9107..9819...0.0..0.72.461.7......0....1..gws-wiz-img.......0i7i30.bGMfyTzo8xQ#imgrc=ZEPAl6LUjfiK-M:](https://www.google.com/search?biw=1134&bih=688&tbm=isch&sa=1&ei=7NOFXNeNLYHY-wS_toyIDA&q=heels+for+women&oq=heels+for+women&gs_l=img.3..0l2j0i67j0l7.6543.9107..9819...0.0..0.72.461.7......0....1..gws-wiz-img.......0i7i30.bGMfyTzo8xQ#imgrc=ZEPAl6LUjfiK-M:)
 
-9. [https://www.google.com/search?biw=1152&bih=688&tbm=isch&sa=1&ei=j-qFXK3PEYuU-gS87IOABQ&q=perfumes+for+women&oq=perfumes+for+women&gs_l=img.3..0l5j0i5i30l5.59724.61654..61870...0.0..0.71.389.6......0....1..gws-wiz-img.......0i67j0i10i30.tGuyBc8_DYY#imgdii=HGhje2pJ9EngEM:&imgrc=Sa6JbVAV79R-AM:](https://www.google.com/search?biw=1152&bih=688&tbm=isch&sa=1&ei=j-qFXK3PEYuU-gS87IOABQ&q=perfumes+for+women&oq=perfumes+for+women&gs_l=img.3..0l5j0i5i30l5.59724.61654..61870...0.0..0.71.389.6......0....1..gws-wiz-img.......0i67j0i10i30.tGuyBc8_DYY#imgdii=HGhje2pJ9EngEM:&imgrc=Sa6JbVAV79R-AM:)
+9.[https://www.google.com/search?biw=1152&bih=688&tbm=isch&sa=1&ei=j-qFXK3PEYuU-gS87IOABQ&q=perfumes+for+women&oq=perfumes+for+women&gs_l=img.3..0l5j0i5i30l5.59724.61654..61870...0.0..0.71.389.6......0....1..gws-wiz-img.......0i67j0i10i30.tGuyBc8_DYY#imgdii=HGhje2pJ9EngEM:&imgrc=Sa6JbVAV79R-AM:](https://www.google.com/search?biw=1152&bih=688&tbm=isch&sa=1&ei=j-qFXK3PEYuU-gS87IOABQ&q=perfumes+for+women&oq=perfumes+for+women&gs_l=img.3..0l5j0i5i30l5.59724.61654..61870...0.0..0.71.389.6......0....1..gws-wiz-img.......0i67j0i10i30.tGuyBc8_DYY#imgdii=HGhje2pJ9EngEM:&imgrc=Sa6JbVAV79R-AM:)
 
 10.[https://www.google.com/search?biw=1152&bih=688&tbm=isch&sa=1&ei=j-qFXK3PEYuU-gS87IOABQ&q=perfumes+for+women&oq=perfumes+for+women&gs_l=img.3..0l5j0i5i30l5.59724.61654..61870...0.0..0.71.389.6......0....1..gws-wiz-img.......0i67j0i10i30.tGuyBc8_DYY#imgrc=CVA8Gb6ajqoEeM:](https://www.google.com/search?biw=1152&bih=688&tbm=isch&sa=1&ei=j-qFXK3PEYuU-gS87IOABQ&q=perfumes+for+women&oq=perfumes+for+women&gs_l=img.3..0l5j0i5i30l5.59724.61654..61870...0.0..0.71.389.6......0....1..gws-wiz-img.......0i67j0i10i30.tGuyBc8_DYY#imgrc=CVA8Gb6ajqoEeM:)
 
@@ -64,11 +64,11 @@ You can also open it by logging in Figma in browser with Gmail account. Then go 
 
 12.[https://www.google.com/search?biw=1152&bih=688&tbm=isch&sa=1&ei=COqFXLnfE8fi-gSHzaP4CQ&q=perfumes+for+men&oq=perfumes+for+men&gs_l=img.3..0l10.131545.133826..134074...0.0..0.69.502.8......0....1..gws-wiz-img.......0i7i30j0i10.7geb9b-5NPY#imgrc=M_I_STn8cqpG7M:](https://www.google.com/search?biw=1152&bih=688&tbm=isch&sa=1&ei=COqFXLnfE8fi-gSHzaP4CQ&q=perfumes+for+men&oq=perfumes+for+men&gs_l=img.3..0l10.131545.133826..134074...0.0..0.69.502.8......0....1..gws-wiz-img.......0i7i30j0i10.7geb9b-5NPY#imgrc=M_I_STn8cqpG7M:)
 
-13. [https://www.google.com/search?q=fragrances+for+men&source=lnms&tbm=isch&sa=X&ved=0ahUKEwit1Z3wpfngAhWVvZ4KHYomCTgQ_AUIDigB&biw=1152&bih=737#imgrc=gk4Mhi3rueAbwM:](https://www.google.com/search?q=fragrances+for+men&source=lnms&tbm=isch&sa=X&ved=0ahUKEwit1Z3wpfngAhWVvZ4KHYomCTgQ_AUIDigB&biw=1152&bih=737#imgrc=gk4Mhi3rueAbwM:)
+13.[https://www.google.com/search?q=fragrances+for+men&source=lnms&tbm=isch&sa=X&ved=0ahUKEwit1Z3wpfngAhWVvZ4KHYomCTgQ_AUIDigB&biw=1152&bih=737#imgrc=gk4Mhi3rueAbwM:](https://www.google.com/search?q=fragrances+for+men&source=lnms&tbm=isch&sa=X&ved=0ahUKEwit1Z3wpfngAhWVvZ4KHYomCTgQ_AUIDigB&biw=1152&bih=737#imgrc=gk4Mhi3rueAbwM:)
 
-14. [https://www.google.com/search?q=fragrances+for+men&source=lnms&tbm=isch&sa=X&ved=0ahUKEwit1Z3wpfngAhWVvZ4KHYomCTgQ_AUIDigB&biw=1152&bih=737#imgrc=ifBtIEEg2TB9wM:](https://www.google.com/search?q=fragrances+for+men&source=lnms&tbm=isch&sa=X&ved=0ahUKEwit1Z3wpfngAhWVvZ4KHYomCTgQ_AUIDigB&biw=1152&bih=737#imgrc=ifBtIEEg2TB9wM:)
+14.[https://www.google.com/search?q=fragrances+for+men&source=lnms&tbm=isch&sa=X&ved=0ahUKEwit1Z3wpfngAhWVvZ4KHYomCTgQ_AUIDigB&biw=1152&bih=737#imgrc=ifBtIEEg2TB9wM:](https://www.google.com/search?q=fragrances+for+men&source=lnms&tbm=isch&sa=X&ved=0ahUKEwit1Z3wpfngAhWVvZ4KHYomCTgQ_AUIDigB&biw=1152&bih=737#imgrc=ifBtIEEg2TB9wM:)
 
-15. [https://www.pexels.com/search/electronics/](https://www.pexels.com/search/electronics/)
+15.[https://www.pexels.com/search/electronics/](https://www.pexels.com/search/electronics/)
  
  Tutorial:
 
