@@ -30,6 +30,10 @@ software when we are working with our team because each team member can see the 
 ## Prototype
    [https://www.figma.com/file/JJlzvGArbbjBfHCYeeq64ECO/prototype?node-id=0%3A1](https://www.figma.com/file/JJlzvGArbbjBfHCYeeq64ECO/prototype?node-id=0%3A1)
 
+## Instructions
+Open the project by going to the link provided above. 
+You can also open it by logging in Figma in browser with Gmail account. Then go to Menu -> Help and Account -> Account Settings ->Drafts -> Import icon on the top toolbar. Select the file to import.
+
 ## Reference
   Images
   
@@ -69,9 +73,13 @@ software when we are working with our team because each team member can see the 
  Tutorial:
 
 [https://www.youtube.com/watch?v=3q3FV65ZrUs](https://www.youtube.com/watch?v=3q3FV65ZrUs)
+
 [https://www.youtube.com/watch?v=t82XRda5DnY](https://www.youtube.com/watch?v=t82XRda5DnY)
+
 [https://www.youtube.com/watch?v=k74IrUNaJVk&t=8s](https://www.youtube.com/watch?v=k74IrUNaJVk&t=8s)
+
 [https://www.youtube.com/watch?v=ST6DOO11zuA&t=172s](https://www.youtube.com/watch?v=ST6DOO11zuA&t=172s)
+
 [https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/](https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/)
 
 
