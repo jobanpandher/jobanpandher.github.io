@@ -35,7 +35,7 @@ Open the project by going to the link provided above.
 You can also open it by logging in Figma in browser with Gmail account. Then go to Menu -> Help and Account -> Account Settings ->Drafts -> Import icon on the top toolbar. Select the file to import.
 
 ## Reference
-  Images
+   * Images
   
    1.[https://www.google.com/search?biw=1134&bih=688&tbm=isch&sa=1&ei=Ms-FXNaTNfOU0PEP8-iz8AQ&q=guess+tops+for+women&oq=guess+tops+for+women&gs_l=img.3..0.920536.921408..921851...0.0..0.67.311.5......0....1..gws-wiz-img.......0i7i30.WxyB8MCm_g8#imgrc=2YI7HaO-BQ9FLM:](https://www.google.com/search?biw=1134&bih=688&tbm=isch&sa=1&ei=Ms-FXNaTNfOU0PEP8-iz8AQ&q=guess+tops+for+women&oq=guess+tops+for+women&gs_l=img.3..0.920536.921408..921851...0.0..0.67.311.5......0....1..gws-wiz-img.......0i7i30.WxyB8MCm_g8#imgrc=2YI7HaO-BQ9FLM:)
    
@@ -70,7 +70,7 @@ You can also open it by logging in Figma in browser with Gmail account. Then go 
 
 15.[https://www.pexels.com/search/electronics/](https://www.pexels.com/search/electronics/)
  
- Tutorial:
+ * Tutorial:
 
 [https://www.youtube.com/watch?v=3q3FV65ZrUs](https://www.youtube.com/watch?v=3q3FV65ZrUs)
 
@@ -83,7 +83,7 @@ You can also open it by logging in Figma in browser with Gmail account. Then go 
 [https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/](https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/)
 
 
-Nav
+* Nav
 
 [https://iosdesignkit.io/ios-11-gui/](https://iosdesignkit.io/ios-11-gui/)
 
